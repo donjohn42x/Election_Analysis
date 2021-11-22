@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview of the project
-The purpos of this election audit was to analyze the amount of votes from each county as well as see if there was a relationship between county and candidate votes.
+The purpose of this election audit was to analyze the amount of votes from each county as well as see if there was a relationship between county and candidate votes.
 
 ## Election Audit Results
 ### How many votes were cast in this congressional election?
