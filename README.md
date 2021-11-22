@@ -30,3 +30,4 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 ## Election Audit Summary
+This script can used in any election as it tallies the number of votes for each candidate and each county provided the data is arranged in the desired manner. If the election was at a higher or lower level, the script can be changed to store the votes on a different scale, for example, if the election was a presidential election and the votes were to be arranged by state then the code can easily be modified to do this.
